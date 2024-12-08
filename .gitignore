@@ -1,0 +1,4 @@
+.streamlit
+.env
+.devcontainer
+.ipynb_checkpoints
